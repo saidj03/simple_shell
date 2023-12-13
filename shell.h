@@ -1,7 +1,7 @@
 #ifndef SHELL_H
 #define SHELL_H
 /*
- *The kjxjhcjxh
+ *prototypes and macros
  */
 #include <stdio.h>
 #include <stdlib.h>
@@ -13,7 +13,7 @@
 
 
 /*
- *thebse aibfbskf
+ *main functions
  */
 void my_prompt(void);
 void cmd_input(char *input_cmd, size_t size);
